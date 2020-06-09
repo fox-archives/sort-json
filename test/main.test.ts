@@ -49,19 +49,3 @@ test('sorts array', () => {
 		z: 'zebra'
 	})
 })
-
-// test('sorts nested array', () => {
-// 	const json = {
-// 		z: 'zebra',
-// 		c: [ 'foxtrot', [
-// 			'delta', 'bravo'
-// 		]],
-// 		a: 'alfa'
-// 	}
-
-// 	assertEquals(sortJson(json), {
-// 		a: 'alfa',
-// 		c: ['india', 'foxtrot'],
-// 		z: 'zebra'
-// 	})
-// })

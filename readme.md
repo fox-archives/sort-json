@@ -10,4 +10,6 @@ deno install --allow-read --allow-write -n sort-json https://raw.githubuserconte
 
 ## Usage
 
+```sh
 sort-json
+```
